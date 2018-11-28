@@ -30,7 +30,8 @@ body{
 .job-title{
 	font-size: .5em;
 	color:drakgray;
-	text-transform: 
+	text-transform: capitalize;
+    text-align: center;
 }
 
 .fname{
