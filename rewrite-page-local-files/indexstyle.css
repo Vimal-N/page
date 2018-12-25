@@ -1,0 +1,141 @@
+/* Stylesheet for Home page*/
+/* Selenium Brand text  */
+nav .bg-light {
+    background-color: #ffffff!important;
+}
+
+nav a.navbar-brand span{
+	font-family: 'Encode Sans', sans-serif;
+	color:#43b02a;
+	text-align: center;
+	font-weight: 150px;
+	font-size:1.5rem;
+/* letter-spacing: 2px; */
+	
+}
+.jumbotron{
+	background: url(imgs/Header-image.png);
+	font-family: 'Roboto', sans-serif;
+	/* font-weight: 500; */
+	color:white;
+	/* padding: 2rem 2rem; */
+	font-weight:400;
+	
+}
+.jumbotron p{
+	font-weight: normal;
+	margin: 1rem;
+	line-height: 1;
+}
+.jumbotron div{
+	font-size: 2.5em;
+	font-weight: 300;
+}
+ /* cards.selenium-red{
+	
+ } */
+/* Selenium brands colors */
+.selenium-cr-red{
+	color:#C8102E;
+}
+
+.selenium-cr-green{
+	color:#43b02a;
+}
+
+.selenium-component-intro{
+	font-family: sans-serif;
+	font-size:1rem;
+	font-weight: 300;
+}
+ .selenium-cr-ide{
+	color:#0033A0;
+}
+
+.selenium-cr-grid{
+	color:#615e9b;
+}
+/* #projectCards */
+#projectCards .col-12>h3{
+	color:grey;
+	font-weight:400;
+	margin: 10px;
+	text-align: center;
+}
+.selenium-cr-red , .selenium-cr-grid, .selenium-cr-ide{
+	font-size:1.52rem;
+	font-weight:400;
+}
+
+div.sponsors-logo{
+	width: 200;
+	
+}
+/* Removing Default border on the cards element */
+#seleniumSupporters{
+	background: white;
+}
+#seleniumSupporters .selenium-cr-green{
+	font-weight: 300;
+}
+
+#seleniumSupporters div.card{
+	border:0;
+	width:200;
+}
+
+/* #mainhead{
+	font-family: 'Encode Sans', sans-serif;
+	font-size: 43px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	text-align: center;
+	line-height: 20px;
+
+} */
+
+/* Selenium Brand styling, TODO - have to find a better way to handle Navbar brand style */
+/* nav a.navbar-brand{
+
+} */
+/* #seleniumSupporters>div>div{
+	font-size
+} */
+
+/* #topcontent{
+	padding: 40px;
+	border: 1px solid white;
+	height: 250px;
+	background-color: rgb(67,176,42);
+	color:white;
+	text-align: center;
+} */
+
+/*.jumbotron{
+	background-color: rgb(67,176,42);
+	color:white;
+	padding: 40px;
+	border: 1px solid white;
+		font-family: 'Encode Sans', sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	text-align: center;
+}
+*/
+/* h2{
+
+	font-size: 30px;
+	font-weight: normal;
+	font-family: 'Encode Sans', sans-serif;
+}
+
+.top-list{
+	font-family: 'Encode Sans', sans-serif;
+	font-weight:  600;
+	font-size: 42px;
+	text-align: center;
+	background-color: rgb(67,176,42);
+	color:white;
+	
+} */
