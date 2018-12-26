@@ -57,10 +57,11 @@ nav a.navbar-brand span{
 }
 /* #projectCards */
 #projectCards .col-12>h3{
-	color:grey;
+	color:#939BA1;
 	font-weight:400;
 	margin: 10px;
 	text-align: center;
+	font-family:"Encode Sans",sans-serif;
 }
 .selenium-cr-red , .selenium-cr-grid, .selenium-cr-ide{
 	font-size:1.52rem;
@@ -68,15 +69,21 @@ nav a.navbar-brand span{
 }
 
 div.sponsors-logo{
-	width: 200;
-	
+	width: 200;	
 }
+
+/* Selenium sponsor logo */
+#seleniumSupporters .col-3{
+	align-self: center;
+}
+
 /* Removing Default border on the cards element */
 #seleniumSupporters{
 	background: white;
+	font-family:"Encode Sans",sans-serif;
 }
 #seleniumSupporters .selenium-cr-green{
-	font-weight: 300;
+	font-weight: 400;
 }
 
 #seleniumSupporters div.card{
