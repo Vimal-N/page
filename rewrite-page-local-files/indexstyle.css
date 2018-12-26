@@ -11,8 +11,13 @@ nav a.navbar-brand span{
 	font-weight: 150px;
 	font-size:1.5rem;
 /* letter-spacing: 2px; */
-	
 }
+
+#mainNavbar .nav-link:hover {
+	color:#43b02a;
+}
+
+
 .jumbotron{
 	background: url(imgs/Header-image.png);
 	font-family: 'Roboto', sans-serif;
@@ -62,6 +67,7 @@ nav a.navbar-brand span{
 	margin: 10px;
 	text-align: center;
 	font-family:"Encode Sans",sans-serif;
+
 }
 .selenium-cr-red , .selenium-cr-grid, .selenium-cr-ide{
 	font-size:1.52rem;
